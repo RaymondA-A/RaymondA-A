@@ -1,5 +1,5 @@
 ### Hi there 👋
-Raymond is an aspiring data analyst with an keen sense of interest in python.
+Raymond is an aspiring data analyst with an keen sense of interest in python. Currently studying Computer Science at Kibo School of Technology, I plan to be a key industry player and also train young people to become more if not better than me.
 
 <!--
 **RaymondA-A/RaymondA-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
