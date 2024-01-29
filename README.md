@@ -1,4 +1,5 @@
 ### Hi there 👋
+Raymond is an aspiring data analyst with an keen sense of interest in python.
 
 <!--
 **RaymondA-A/RaymondA-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
